@@ -1,4 +1,5 @@
 FROM ubuntu:18.04
+EXPOSE 80 8080
 
 ENV DEBIAN_FRONTEND=noninteractive \
 TZ=Asia/Tokyo
