@@ -13,6 +13,7 @@ php5.6-mbstring \
 php5.6-mysqli \
 php5.6-xml \
 php5.6-curl \
+php5.6-zip \
 wget \
 unzip \
 less \
